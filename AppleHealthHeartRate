@@ -1,0 +1,14 @@
+ example data schema for an Apple Health biometric that stores heart rate
+
+x{
+  "user_id": "string",             // Unique identifier for the user
+  "timestamp": "datetime",         // Date and time of the heart rate measurement
+  "heart_rate": "integer",         // Heart rate value in beats per minute (BPM)
+  "source": "string",              // Source of the data (e.g., "Apple Watch", "Health app")
+  "activity_type": "string",       // Activity type during the measurement (e.g., "Resting", "Walking", "Running")
+  "metadata": {
+    "device_model": "string",      // Apple Watch model or other device information
+    "os_version": "string",        // Version of the operating system (e.g., iOS version)
+    "sample_id": "string"          // Unique identifier for the data sample
+  }
+}
