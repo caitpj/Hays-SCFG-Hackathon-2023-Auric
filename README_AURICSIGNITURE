@@ -1,0 +1,34 @@
+# Auric Wellness Signature
+
+## Description
+
+The Auric Wellness Signature is a data-driven wellness system that utilizes the power of essential oils and rituals to enhance overall well-being. This repository contains the code and data for creating personalized wellness recommendations based on user biometrics and wellness goals.
+
+## Features
+
+- Recommends personalized essential oil blends and rituals based on user biometric data.
+- Offers four wellness categories: Calm, Focus, Energy, and Sleep, inspired by the chakras and auric energy.
+- Uses machine learning models to analyze user biometric data and determine the best auric mix for specific wellness situations.
+- Provides a user-friendly app interface for easy interaction and visualization of wellness recommendations.
+- Implements data security and privacy measures to protect user data and ensure compliance with data protection regulations.
+
+## Data
+
+- The repository includes essential oil properties and wellness rituals data to support the AI logic.
+- Sample biometric data from the Apple Watch is included for testing and demonstration purposes.
+
+## Requirements
+
+- Python 3.x
+- Jupyter Notebook
+- Pandas
+- Scikit-learn
+- Flask (for app development)
+- Matplotlib (for data visualization)
+
+## Usage
+
+1. Clone the repository to your local machine.
+
+```bash
+git clone https://github.com/yourusername/auric-wellness-signature.git
