@@ -6,4 +6,4 @@ This repository houses the data engineering and artifically intelligence logic t
 
 ## Sleep Optimisation
 
-![Sleep Optimisation data architecture diagram](images/Sleep_Optimisation_data_architecture.png)
+![Sleep Optimisation data architecture diagram](Images/Sleep_Optimisation_data_architecture.png)
